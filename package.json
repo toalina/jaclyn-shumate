@@ -1,0 +1,18 @@
+{
+  "name": "jaclynshumate",
+  "version": "1.0.0",
+  "description": "Website for Jaclyn Shumate Game Audio ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Alina To <alina.to@gmail.com>",
+  "license": "ISC",
+  "engines": {
+    "node": "0.12.7"
+  },
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
