@@ -10,7 +10,7 @@
   "author": "Alina To <alina.to@gmail.com>",
   "license": "ISC",
   "engines": {
-    "node": "0.12.7"
+    "node": "6.11.1"
   },
   "dependencies": {
     "express": "^4.13.4"
